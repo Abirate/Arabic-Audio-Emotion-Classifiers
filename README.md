@@ -12,3 +12,6 @@ Emotion detectors for natural audio can be used in other applications like voice
 2- Justification of the use case choice
 
 I am Tunisian (a country in the Maghreb region of North Africa): Arabic is my mother tongue(with French), I remain fascinated by the Arabic language and wanted to apply my knowledge in Machine Learning, Deep Learning, and Arabic to build an emotion classifier.
+
+3- See my work : 
+https://github.com/Abirate/Arabic-Audio-Emotion-Classifiers/blob/main/Arabic%20Audio%20Emotion%20Classifier.ipynb
